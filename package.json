@@ -11,7 +11,7 @@
   },
   "repository": {
     "type":             "git",
-    "url":              "https://github.com/pmuellr/cf-node-debug.git"
+    "url":              "https://github.com/kelapure/cf-node-debug.git"
   },
   "dependencies": {
     "node-inspector":   "0.7.3",
@@ -21,7 +21,7 @@
     "express":          "4.4.x",
     "client-sessions":  "0.6.x",
     "handlebars":       "2.0.x",
-    "http-proxy":       "1.11.x",
+    "http-proxy":       "1.13.x",
     "nopt":             "2.2.x",
     "passport":         "0.2.x",
     "passport-local":   "1.0.x",
